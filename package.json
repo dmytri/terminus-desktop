@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.9"
+    "electron": "^13.6.6"
   },
   "build": {
     "appId": "com.terminusdb.desktop",
